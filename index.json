@@ -1,0 +1,11 @@
+{
+  "org": "napari",
+  "repo": "napari-tiff",
+  "versions": [
+    {
+      "commit": "3223b3ba2a8ea0927700b8d1f9f32bc32656f56b",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:27:09.626936+00:00"
+    }
+  ]
+}
