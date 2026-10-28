@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/napari/napari-tiff/commit/3223b3ba2a8ea0927700b8d1f9f32bc32656f56b",
       "git:hexsha": "3223b3ba2a8ea0927700b8d1f9f32bc32656f56b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T11:27:09.626461+00:00"
     },
     {
       "@id": "https://repolex.ai/r/napari/napari-tiff/commit/20feb278979f6807a9427c1876c21c5532fb42e1",
